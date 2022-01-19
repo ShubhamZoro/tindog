@@ -32,9 +32,7 @@ h2{
     line-height: 1.5;
 }
 /* navigation bar */
-.nav{
-    
-}
+
 .navbar-brand{
     font-family: "Ubuntu";
     font-size: 2rem;
@@ -63,7 +61,7 @@ h2{
 }
 /* featurs */
 #features{
-    
+    text-align: center;
     background-color: white;
     position: relative;
     
@@ -115,9 +113,7 @@ h2{
     margin: 20px 20px 50px;
 }
 /* pricing */
-#pricing{
-    
-}
+
 
 .pricing-h{
     text-align: center;
